@@ -19,7 +19,7 @@
 ```typescript
 const udipta = {
   location: "India 🇮🇳",
-  currentFocus: ["Spring Boot", "Angular", "React", "Generative AI"],
+  currentFocus: ["Spring Boot", "Angular", "React", "FastAPI", "Generative AI"],
   learning: ["MCP (Model Context Protocol)", "AI Integration", "Microservices"],
   interests: ["Full Stack Development", "AI/ML", "Cloud Architecture"],
   funFact: "Sport loving coder who debugs while dreaming ⚡",
@@ -40,6 +40,8 @@ const udipta = {
 ### ⚙️ Backend
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### 🤖 AI & Machine Learning
@@ -70,6 +72,7 @@ const udipta = {
 
 ### 💻 Full Stack Applications
 - **Spring Boot Microservices** - Scalable backend architectures with JPA & JDBC
+- **FastAPI Services** - High-performance Python APIs for AI/ML integration
 - **Angular Enterprise Apps** - Modern frontend solutions with reactive programming
 - **React Component Libraries** - Reusable, accessible UI components
 
@@ -79,11 +82,11 @@ const udipta = {
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=udipta18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF)
+<img src="https://github-readme-stats.vercel.app/api?username=udipta18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=udipta18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udipta18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" alt="Top Languages" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=udipta18&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=udipta18&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" alt="GitHub Streak" />
 
 </div>
 

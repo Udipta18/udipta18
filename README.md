@@ -78,40 +78,6 @@ const udipta = {
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-### 🔥 Contribution Stats
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/udipta18/udipta18/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/udipta18/udipta18/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/udipta18/udipta18/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-### 💻 Weekly Development Breakdown
-
-```text
-Java         ████████████░░░░░░░░░   55%
-TypeScript   ████████░░░░░░░░░░░░░   35%
-Python       ██░░░░░░░░░░░░░░░░░░░   8%
-Other        ░░░░░░░░░░░░░░░░░░░░░   2%
-```
-
-### 📈 GitHub Activity
-
-- 🌟 **Total Repositories**: Check out my pinned projects below
-- 💡 **Active Contributor**: Open source enthusiast
-- 🔭 **Current Projects**: AI-powered applications with MCP integration
-- 📚 **Always Learning**: Spring Boot, React, FastAPI, Generative AI
-
-</div>
-
----
-
 ## 🎯 Current Focus
 
 ```mermaid

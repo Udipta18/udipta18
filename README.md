@@ -81,12 +81,32 @@ const udipta = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=udipta18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udipta18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" alt="Top Languages" />
+### 🔥 Contribution Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=udipta18&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" alt="GitHub Streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/udipta18/udipta18/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/udipta18/udipta18/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/udipta18/udipta18/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+### 💻 Weekly Development Breakdown
+
+```text
+Java         ████████████░░░░░░░░░   55%
+TypeScript   ████████░░░░░░░░░░░░░   35%
+Python       ██░░░░░░░░░░░░░░░░░░░   8%
+Other        ░░░░░░░░░░░░░░░░░░░░░   2%
+```
+
+### 📈 GitHub Activity
+
+- 🌟 **Total Repositories**: Check out my pinned projects below
+- 💡 **Active Contributor**: Open source enthusiast
+- 🔭 **Current Projects**: AI-powered applications with MCP integration
+- 📚 **Always Learning**: Spring Boot, React, FastAPI, Generative AI
 
 </div>
 

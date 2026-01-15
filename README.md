@@ -1,31 +1,134 @@
+<div align="center">
+  
+# 👨‍💻 UDIPTA DAS
 
-![MasterHead](https://miro.medium.com/max/1400/1*oh0HvyvoR3IuO7EtF0uUDQ.png)
-<h1 align="center">Hi 👋, I'm UDIPTA DAS</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+### Full Stack Developer | AI Enthusiast | Open Source Contributor
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=udipta18&label=Profile%20views&color=0e75b6&style=flat" alt="udipta18" /> </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Building+Intelligent+Applications;Exploring+Generative+AI;Crafting+Seamless+User+Experiences)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning **springboot,angular**
+<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="400" alt="coding">
 
-- 🤝 I’m looking for help with **springboot,angular,jdbc,datajpa,git,postman**
+![Profile Views](https://komarev.com/ghpvc/?username=udipta18&label=Profile%20Views&color=00F7FF&style=for-the-badge)
 
-- 💬 Ask me about **springboot,angular,jdbc,datajpa,git,postman**
+</div>
 
-- 📫 How to reach me **dasdsa1208@gmail.com**
+---
 
-- ⚡ Fun fact **sport loving**
+## 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/udipta das🇮🇳" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="udipta das🇮🇳" height="30" width="40" /></a>
-</p>
+```typescript
+const udipta = {
+  location: "India 🇮🇳",
+  currentFocus: ["Spring Boot", "Angular", "React", "Generative AI"],
+  learning: ["MCP (Model Context Protocol)", "AI Integration", "Microservices"],
+  interests: ["Full Stack Development", "AI/ML", "Cloud Architecture"],
+  funFact: "Sport loving coder who debugs while dreaming ⚡",
+  reachMe: "dasdsa1208@gmail.com"
+};
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+## 💼 Tech Stack
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=udipta18&show_icons=true&locale=en&layout=compact" alt="udipta18" /></p>
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=udipta18&show_icons=true&locale=en" alt="udipta18" /></p>
+### ⚙️ Backend
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=udipta18&" alt="udipta18" /></p>
+### 🤖 AI & Machine Learning
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-181818?style=for-the-badge&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-FF6B6B?style=for-the-badge&logo=protocol&logoColor=white)
+
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🛠️ Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🌟 Featured Projects
+
+### 🤖 AI-Powered Applications
+- **MCP Integration Projects** - Building intelligent context-aware applications using Model Context Protocol
+- **Generative AI Solutions** - Implementing LLM-based features for enhanced user experiences
+- **React + AI Dashboards** - Creating responsive AI-powered analytics interfaces
+
+### 💻 Full Stack Applications
+- **Spring Boot Microservices** - Scalable backend architectures with JPA & JDBC
+- **Angular Enterprise Apps** - Modern frontend solutions with reactive programming
+- **React Component Libraries** - Reusable, accessible UI components
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=udipta18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=udipta18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=udipta18&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```mermaid
+graph LR
+    A[Full Stack Development] --> B[AI Integration]
+    B --> C[MCP Protocol]
+    C --> D[Intelligent Apps]
+    A --> E[React Ecosystem]
+    E --> D
+    A --> F[Spring Boot]
+    F --> D
+```
+
+- 🔭 Building AI-powered full-stack applications
+- 🧠 Exploring MCP (Model Context Protocol) integration patterns
+- ⚛️ Mastering React ecosystem with TypeScript
+- 🌱 Deep diving into Generative AI APIs (OpenAI, Claude, Gemini)
+- 🚀 Implementing microservices with Spring Boot
+- 💡 Contributing to open-source AI tools
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/udipta-das🇮🇳)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dasdsa1208@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/udipta18)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+**⭐ From [udipta18](https://github.com/udipta18) | Let's build something amazing together!**
+
+</div>
